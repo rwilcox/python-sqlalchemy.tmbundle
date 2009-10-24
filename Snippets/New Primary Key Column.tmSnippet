@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Column('${1:id}', ${2:Integer}, primary_key=True${3})$0</string>
+	<key>name</key>
+	<string>New Primary Key Column</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>pk</string>
+	<key>uuid</key>
+	<string>F8E7BD61-4476-43D0-9D2A-0B0E2EE9F537</string>
+</dict>
+</plist>

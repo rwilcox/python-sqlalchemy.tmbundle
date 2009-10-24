@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>class ${1:MappedClass}(object):
+    def __repr__(self):
+        cls = self.__class__
+        cols = cls.c.keys()
+        return "%s(%s)" % (
+            cls.__name__,
+            ", ".join(["%s=%r" % (col, getattr(self, col)) for col in cols])
+        )
+
+mapper($1, ${2:${3:${1/((\A)|([a-z]+))([A-Z]+)/(?3:$3_)\l$4/g}_}table}${4})
+$0</string>
+	<key>name</key>
+	<string>New Mapper</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>mapclass</string>
+	<key>uuid</key>
+	<string>152B4F5C-ED5E-421C-B4C8-C64C680B42C5</string>
+</dict>
+</plist>

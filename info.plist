@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>rkbtra@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Brian Beck</string>
+	<key>description</key>
+	<string>Snippets and templates for &lt;a href="http://www.sqlalchemy.org"&gt;SQLAlchemy&lt;/a&gt;, an object-relational mapper for &lt;a href="http://www.python.org"&gt;Python&lt;/a&gt;.</string>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>1BEF510A-994C-4AB3-9C49-B9095420D69C</string>
+			<string>88D66AF4-1BAC-44B1-8B6E-1A7F2B46EE90</string>
+			<string>152B4F5C-ED5E-421C-B4C8-C64C680B42C5</string>
+			<string>323F1563-6D4A-4145-9E29-88B23EF29428</string>
+			<string>------------------------------------</string>
+			<string>F8E7BD61-4476-43D0-9D2A-0B0E2EE9F537</string>
+			<string>02642425-99B6-4929-B142-279B08D84F82</string>
+			<string>AC33B419-F16B-4B7E-921A-E407FC078DC0</string>
+			<string>20BC2D63-094B-4200-8028-180A3D144B4F</string>
+			<string>------------------------------------</string>
+			<string>17A0E3AC-9B1D-4893-AE13-99A8A147E392</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>Python SQLAlchemy</string>
+	<key>ordering</key>
+	<array>
+		<string>1BEF510A-994C-4AB3-9C49-B9095420D69C</string>
+		<string>88D66AF4-1BAC-44B1-8B6E-1A7F2B46EE90</string>
+		<string>F8E7BD61-4476-43D0-9D2A-0B0E2EE9F537</string>
+		<string>02642425-99B6-4929-B142-279B08D84F82</string>
+		<string>AC33B419-F16B-4B7E-921A-E407FC078DC0</string>
+		<string>20BC2D63-094B-4200-8028-180A3D144B4F</string>
+		<string>17A0E3AC-9B1D-4893-AE13-99A8A147E392</string>
+		<string>152B4F5C-ED5E-421C-B4C8-C64C680B42C5</string>
+		<string>323F1563-6D4A-4145-9E29-88B23EF29428</string>
+		<string>12FAA988-8D85-40B5-8B0A-E160B040C8B3</string>
+		<string>EED1C9EF-9661-43A4-94DF-FC8B63A1C3DC</string>
+	</array>
+	<key>uuid</key>
+	<string>AC8CFD5F-3A96-42EC-9D4D-CCBBB84E65CB</string>
+</dict>
+</plist>
