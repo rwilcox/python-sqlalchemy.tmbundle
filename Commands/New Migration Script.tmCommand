@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>"${TM_RUBY:=ruby}" -- "${TM_BUNDLE_SUPPORT}/bin/generate_migration.rb"</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>name</key>
+	<string>New Migration Script</string>
+	<key>output</key>
+	<string>showAsTooltip</string>
+	<key>uuid</key>
+	<string>8933E48B-6F5D-4C91-B448-F311740E01D3</string>
+</dict>
+</plist>
