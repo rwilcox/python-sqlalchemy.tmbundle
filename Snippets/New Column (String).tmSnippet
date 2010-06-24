@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>Column('${1:id}', ${2:Integer()}, ${3:nullable=False})$0</string>
+	<string>Column('${1:str}', ${2:String()}, ${3:nullable=False})$0</string>
 	<key>name</key>
-	<string>New Column</string>
+	<string>New Column (String)</string>
 	<key>scope</key>
 	<string>source.python</string>
 	<key>tabTrigger</key>
 	<string>col</string>
 	<key>uuid</key>
-	<string>88D66AF4-1BAC-44B1-8B6E-1A7F2B46EE90</string>
+	<string>F4DBFB44-FFAB-4076-906A-831D2AD428F7</string>
 </dict>
 </plist>
